@@ -31,5 +31,7 @@ public class ProcessController
 		Scanner myScanner = new Scanner (System.in);
 		System.out.println("How big of a circle do you want?");
 		int circleSize = myScanner.nextInt();
+		
+		
 	}
 }
